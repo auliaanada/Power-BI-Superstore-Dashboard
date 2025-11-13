@@ -49,4 +49,4 @@ This dashboard answers several key business questions:
 ## 📁 Project Files
 
 * **`superstore_sales.pbix`:** The main Power BI project file containing the data model, queries, and report.
-* **`[YOUR_CSV_FILE_NAME].csv`:** The original raw dataset used for this analysis.
+* **`superstore_sales.csv`:** The original raw dataset used for this analysis.
