@@ -8,7 +8,7 @@ This project is a comprehensive analysis of the Superstore dataset, built entire
 
 The best way to experience this project is through the **live, interactive dashboard**. Click the link below to open the dashboard directly in your browser.
 
-### ➡️ [Click Here to View the Live Dashboard]([YOUR_LIVE_DASHBOARD_LINK_HERE])
+### ➡️ [Click Here to View the Live Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNzFmZDZjYzYtMTIxZC00ZTRmLWExMjktZDI1MmM4MjJlZGMwIiwidCI6Ijg4NDk5MWYzLTBjNjktNDMzYi04MDA2LTVjMGFhM2IwNTkwNCIsImMiOjEwfQ%3D%3D)
 
 *(Note: The link is published to the web using Power BI's free tier. No confidential data is used.)*
 
@@ -18,7 +18,7 @@ The best way to experience this project is through the **live, interactive dashb
 
 Here is a static preview of the final dashboard:
 
-![Power BI Superstore Dashboard Preview]([YOUR_SCREENSHOT_NAME.png])
+![Power BI Superstore Dashboard Preview]([super.png])
 
 ---
 
